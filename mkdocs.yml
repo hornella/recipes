@@ -28,9 +28,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Recipes: recipes/index.md
-  - Breads: recipes/breads/
-  - Breakfast: recipes/breakfast/
-  - Mains: recipes/mains/
-  - Sides: recipes/sides/
-  - Snacks: recipes/snacks/
-  - Desserts: recipes/desserts/
+  - Breads: recipes/breads/index.md
+  - Breakfast: recipes/breakfast/index.md
+  - Mains: recipes/mains/index.md
+  - Sides: recipes/sides/index.md
+  - Snacks: recipes/snacks/index.md
+  - Desserts: recipes/desserts/index.md
