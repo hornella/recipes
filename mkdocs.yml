@@ -1,0 +1,36 @@
+site_name: Ornella's Recipes
+site_description: Personal recipe book
+repo_url: https://github.com/hornella/recipes
+repo_name: hornella/recipes
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Recipes: recipes/_index.md
+  - Breads: recipes/breads/
+  - Breakfast: recipes/breakfast/
+  - Mains: recipes/mains/
+  - Sides: recipes/sides/
+  - Snacks: recipes/snacks/
+  - Desserts: recipes/desserts/
