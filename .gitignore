@@ -1,0 +1,10 @@
+# Python virtual environments
+.recipe/
+.venv/
+
+# Build output
+site/
+
+# Bytecode
+__pycache__/
+*.py[cod]
