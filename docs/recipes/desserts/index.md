@@ -1,4 +1,4 @@
-# Mains
+# Desserts
 
 Recipes in this category:
 
