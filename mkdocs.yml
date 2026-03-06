@@ -27,7 +27,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Recipes: recipes/_index.md
+  - Recipes: recipes/index.md
   - Breads: recipes/breads/
   - Breakfast: recipes/breakfast/
   - Mains: recipes/mains/
