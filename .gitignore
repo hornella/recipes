@@ -8,3 +8,10 @@ site/
 # Bytecode
 __pycache__/
 *.py[cod]
+
+#mkdocs build output
+site/
+
+#kdocks log files
+.mkdocs.log
+.mkdocs.pid
